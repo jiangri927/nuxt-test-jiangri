@@ -6,7 +6,7 @@
       name="activeCategory"
       class="w-6/12 mb-8 rounded border"
     >
-      <option value="-1">Asll</option>
+      <option value="-1">Asl</option>
       <option
         v-for="(category, index) in categories"
         :key="index"
